@@ -1,4 +1,0 @@
-OPENIT!
-
-FLAG : HKNUDXNT
-
